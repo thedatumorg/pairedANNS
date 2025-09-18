@@ -1,0 +1,5 @@
+cblas_sgemm
+mkl_simatcopy
+LAPACKE_sgesvd
+mkl_get_max_threads
+MKL_Free_Buffers
