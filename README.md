@@ -1,4 +1,4 @@
-# ANNS-benchmark
+# paired-ANNS
 SVS (ScalableVectorSearch folder)  
 
 NSSG (SSG folder)  
@@ -13,6 +13,8 @@ VAQ
 OPQ (Included in faiss library)  
 
 PQ (Included in faiss library)
+
+IVFPQ (Included in faiss library)
 
 LORANN
 
