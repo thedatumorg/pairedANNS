@@ -14,6 +14,8 @@ OPQ (Included in faiss library)
 
 PQ (Included in faiss library)
 
+IVFPQ (Included in faiss library)
+
 LORANN
 
 
