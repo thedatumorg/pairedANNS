@@ -1,4 +1,4 @@
-# ANNS-benchmark
+# paired-ANNS
 SVS (ScalableVectorSearch folder)  
 
 NSSG (SSG folder)  
