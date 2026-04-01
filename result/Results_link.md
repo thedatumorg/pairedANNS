@@ -50,15 +50,14 @@ Multiple ANNS methods spanning different families:
 
 The spreadsheet supports the following analyses:
 
-### 1. Reproducing Figures and Tables
-All figures and tables reported in the paper can be regenerated directly from the provided data.
+### 1. Reproducing Results for Figures and Tables
+Results associated with all figures and tables reported in the paper can be regenerated directly from the provided data.
 
 ### 2. Standalone vs. Paired Comparison
 Compare recall–efficiency trade-offs between standalone methods and paired configurations.
 
 ### 3. Multi-Objective Evaluation
 Analyze performance across multiple objectives:
-- Accuracy
 - Query latency
 - Construction cost
 
