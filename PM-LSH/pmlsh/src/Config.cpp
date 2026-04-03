@@ -5,6 +5,7 @@ int Config::lowDim = 15;
 int Config::highDim = 59800;
 int Config::KNN = 100;
 int Config::N = 10000;
+string Config::test_id = "mnist";
 
 string Config::highDataFilePath = "E:\\Dataset_for_c\\" + dataSetName + ".data_all";
 string Config::highQueryFilePath = "E:\\Dataset_for_c\\" + dataSetName + ".data_all_query";

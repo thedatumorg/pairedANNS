@@ -4,6 +4,6 @@
         "conan": {}
     },
     "include": [
-        "/data/kabir/similarity-search/models/DB-LSH/dbLSH/build/CMakePresets.json"
+        "/data/kabir/similarity-search/models/pairedANNS/DB-LSH/dbLSH/build/CMakePresets.json"
     ]
 }

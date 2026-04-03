@@ -15,7 +15,7 @@ public:
 
 	//void incrementalSearch(DataMetric& highData, DataMetric& highQueryData, DataMetric& lowQueryData, Real_Result& real_result);
 	//void incrementalSearchWithKth(DataMetric& highData, DataMetric& highQueryData, DataMetric& lowQueryData, Real_Result& real_result);
-	void improvedSearchWithKth(DataMetric& highData, DataMetric& highQueryData, DataMetric& lowQueryData, Real_Result& real_result);
+	void improvedSearchWithKth(DataMetric& highData, DataMetric& highQueryData, DataMetric& lowQueryData, Real_Result& real_result, std::string dataset_name);
 	void constructIndex(DataMetric& lowData);
 
 private:

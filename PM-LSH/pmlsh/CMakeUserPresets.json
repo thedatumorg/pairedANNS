@@ -4,6 +4,7 @@
         "conan": {}
     },
     "include": [
-        "/home/saminyeaser/OSU study/Research-Implementation/models/PM-LSH/pmlsh/build/CMakePresets.json"
+        "/data/kabir/similarity-search/models/PM-LSH/pmlsh/build/CMakePresets.json",
+        "/data/kabir/similarity-search/models/pairedANNS/PM-LSH/pmlsh/build/CMakePresets.json"
     ]
 }
